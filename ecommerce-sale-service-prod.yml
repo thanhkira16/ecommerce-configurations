@@ -15,5 +15,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8081/eureka
+      defaultZone: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8081.spch.r.killercoda.com/eureka
 
