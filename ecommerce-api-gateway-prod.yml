@@ -6,3 +6,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://16.16.90.247:8081/eureka
+hostproduct: http://16.16.90.247:8083/
+hostuser: http://16.16.90.247:8084/
+hostsale: http://16.16.90.247:8085/
+hostorder: http://16.16.90.247:8086/

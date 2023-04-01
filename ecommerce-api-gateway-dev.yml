@@ -6,4 +6,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8081/eureka
+hostproduct: http://localhost:8083/
+hostuser: http://localhost:8084/
+hostsale: http://localhost:8085/
+hostorder: http://localhost:8086/
 
