@@ -15,5 +15,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://13.50.224.105:8081/eureka
+      defaultZone: http://13.48.226.196:8081/eureka
 
