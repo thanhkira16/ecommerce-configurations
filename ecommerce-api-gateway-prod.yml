@@ -5,9 +5,9 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8081.spch.r.killercoda.com/eureka
+      defaultZone: http://13.50.224.105:8081/eureka
 service:
-  product: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8083.spch.r.killercoda.com
-  user: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8084.spch.r.killercoda.com
-  sale: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8085.spch.r.killercoda.com
-  order: https://98689eab-ab51-4ae7-8010-9c0318242672-10-244-28-232-8086.spch.r.killercoda.com
+  product: http://13.50.224.105:8083
+  user: http://13.50.224.105:8084
+  sale: http://13.50.224.105:8085
+  order: http://13.50.224.105:8086
