@@ -15,5 +15,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://13.53.193.25:30081/eureka
+      defaultZone: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30081.spch.r.killercoda.com/eureka
 
