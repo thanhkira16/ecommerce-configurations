@@ -5,9 +5,9 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://16.170.253.192:30081/eureka
+      defaultZone: http://16.170.253.192:8081/eureka
 service:
-  product: http://16.170.253.192:30083
-  user: http://16.170.253.192:30084
-  sale: http://16.170.253.192:30085
-  order: http://16.170.253.192:30086
+  product: http://16.170.253.192:8083
+  user: http://16.170.253.192:8084
+  sale: http://16.170.253.192:8085
+  order: http://16.170.253.192:8086
