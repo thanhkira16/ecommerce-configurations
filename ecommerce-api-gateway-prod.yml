@@ -5,9 +5,9 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30081.spch.r.killercoda.com/eureka
+      defaultZone: https://db245a4f-ffaa-43ac-a3fe-f9e0228c9b5e-10-244-29-233-30081.spch.r.killercoda.com/eureka
 service:
-  product: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30083.spch.r.killercoda.com/
-  user: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30084.spch.r.killercoda.com/
-  sale: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30085.spch.r.killercoda.com/
-  order: https://2de2d963-f68a-4dc9-92d0-a9b01a87114b-10-244-28-97-30086.spch.r.killercoda.com/
+  product: https://db245a4f-ffaa-43ac-a3fe-f9e0228c9b5e-10-244-29-233-30083.spch.r.killercoda.com
+  user: https://db245a4f-ffaa-43ac-a3fe-f9e0228c9b5e-10-244-29-233-30084.spch.r.killercoda.com
+  sale: https://db245a4f-ffaa-43ac-a3fe-f9e0228c9b5e-10-244-29-233-30085.spch.r.killercoda.com
+  order: https://db245a4f-ffaa-43ac-a3fe-f9e0228c9b5e-10-244-29-233-30086.spch.r.killercoda.com
