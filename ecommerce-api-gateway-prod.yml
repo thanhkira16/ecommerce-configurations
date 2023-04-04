@@ -5,9 +5,9 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://2f5d143d-23e8-4b55-9ff7-ee17dcad4c6f-10-244-29-79-30081.spch.r.killercoda.com/eureka
+      defaultZone: #http://10.0.0.2:30081/eureka with docker use port 8081 with k8s 30081
 service:
-  product: https://2f5d143d-23e8-4b55-9ff7-ee17dcad4c6f-10-244-29-79-30083.spch.r.killercoda.com
-  user: https://2f5d143d-23e8-4b55-9ff7-ee17dcad4c6f-10-244-29-79-30084.spch.r.killercoda.com
-  sale: https://2f5d143d-23e8-4b55-9ff7-ee17dcad4c6f-10-244-29-79-30085.spch.r.killercoda.com
-  order: https://2f5d143d-23e8-4b55-9ff7-ee17dcad4c6f-10-244-29-79-30086.spch.r.killercoda.com
+  product: #http://10.0.0.2:30083 with docker use port 8083 with k8s 30083
+  user: #http://10.0.0.2:30084 with docker use port 8084 with k8s 30084
+  sale: #http://10.0.0.2:30085 with docker use port 8085 with k8s 30085
+  order: #http://10.0.0.2:30086 with docker use port 8086 with k8s 30086
