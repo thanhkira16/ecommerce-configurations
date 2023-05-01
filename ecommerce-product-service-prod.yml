@@ -13,5 +13,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://b7a1be12-d4bd-48f0-ac64-e4fc73050ba5-10-244-29-231-8081.spch.r.killercoda.com/eureka #http://10.0.0.2:30081/eureka with docker use port 8081 with k8s 30081
+      defaultZone: https://fac663e1-96ac-42be-ad4d-3c1a7512c0d9-10-244-28-23-8081.spch.r.killercoda.com/eureka #http://10.0.0.2:30081/eureka with docker use port 8081 with k8s 30081
 
