@@ -13,5 +13,5 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://16.171.56.240:8081/eureka #http://10.0.0.2:30081/eureka with docker use port 8081 with k8s 30081
+      defaultZone: http://registry-registry-service:8081/eureka
 
